@@ -15,73 +15,73 @@ The designs were created to the following widths:
 
 #### Backgrounds
 
-- Very dark desaturated blue (main background): hsl(222, 26%, 31%)
-- Very dark desaturated blue (toggle background, keypad background): hsl(223, 31%, 20%)
-- Very dark desaturated blue (screen background): hsl(224, 36%, 15%)
+- Navy 850 (main background): hsl(222, 26%, 31%)
+- Navy 900 (toggle background, keypad background): hsl(223, 31%, 20%)
+- Navy 950 (screen background): hsl(224, 36%, 15%)
 
 #### Keys
 
-- Desaturated dark blue (key background): hsl(225, 21%, 49%)
-- Desaturated dark blue (key shadow): hsl(224, 28%, 35%)
+- Navy 700 (key background): hsl(225, 21%, 49%)
+- Navy 800 (key shadow): hsl(224, 28%, 35%)
 
-- Red (key background, toggle): hsl(6, 63%, 50%)
-- Dark red (key shadow): hsl(6, 70%, 34%)
+- Red 600 (key background, toggle): hsl(6, 63%, 50%)
+- Red 800 (key shadow): hsl(6, 70%, 34%)
 
-- Light grayish orange (key background): hsl(30, 25%, 89%)
-- Grayish orange (key shadow): hsl(28, 16%, 65%)
+- Gray 200 (key background): hsl(0, 0%, 90%)
+- Gray orange 400 (key shadow): hsl(28, 16%, 65%)
 
 #### Text
 
-- Very dark grayish blue: hsl(221, 14%, 31%)
-- White: hsl(0, 0%, 100%)
+- Navy 750: hsl(221, 14%, 31%)
+- White: hsl(0, 100%, 100%)
 
 ### Theme 2
 
 #### Backgrounds
 
-- Light gray (main background): hsl(0, 0%, 90%)
-- Grayish red (toggle background, keypad background): hsl(0, 5%, 81%)
-- Very light gray (screen background): hsl(0, 0%, 93%)
+- Gray 200 (main background): hsl(0, 0%, 90%)
+- Gray 300 (toggle background, keypad background): hsl(0, 5%, 81%)
+- Gray 100 (screen background): hsl(0, 0%, 93%)
 
 #### Keys
 
-- Dark moderate cyan (key background): hsl(185, 42%, 37%)
-- Very dark cyan (key shadow): hsl(185, 58%, 25%)
+- Bue 500 (key background): hsl(185, 42%, 37%)
+- Blue 600 (key shadow): hsl(185, 58%, 25%)
 
-- Orange (key background, toggle): hsl(25, 98%, 40%)
-- Dark orange (key shadow): hsl(25, 99%, 27%)
+- Orange 700 (key background, toggle): hsl(25, 98%, 40%)
+- Orange 800 (key shadow): hsl(25, 99%, 27%)
 
-- Light grayish yellow (key background): hsl(45, 7%, 89%)
-- Dark grayish orange (key shadow): hsl(35, 11%, 61%)
+- Grey 200 (key background): hsl(0, 0%, 90%)
+- Grey orange 450 (key shadow): hsl(35, 11%, 61%)
 
 #### Text
 
-- Very dark grayish yellow: hsl(60, 10%, 19%)
-- White (text): hsl(0, 0%, 100%)
+- Gray 900: hsl(60, 10%, 19%)
+- White (text): hsl(0, 100%, 100%)
 
 ### Theme 3
 
 #### Backgrounds
 
-- Very dark violet (main background): hsl(268, 75%, 9%)
-- Very dark violet (toggle background, keypad background, screen background): hsl(268, 71%, 12%)
+- Purple 950 (main background): hsl(268, 75%, 9%)
+- Purple 900 (toggle background, keypad background, screen background): hsl(268, 71%, 12%)
 
 #### Keys
 
-- Dark violet (key background): hsl(281, 89%, 26%)
-- Vivid magenta (key shadow): hsl(285, 91%, 52%)
+- Purple 800 (key background): hsl(281, 89%, 26%)
+- Purple 400 (key shadow): hsl(285, 91%, 52%)
 
-- Pure cyan (key background, toggle): hsl(176, 100%, 44%)
-- Soft cyan (key shadow): hsl(177, 92%, 70%)
+- Cyan 500 (key background, toggle): hsl(176, 100%, 44%)
+- Cyan 400 (key shadow): hsl(177, 92%, 70%)
 
-- Very dark violet (key background): hsl(268, 47%, 21%)
-- Dark magenta (key shadow): hsl(290, 70%, 36%)
+- Purple 850 (key background): hsl(268, 47%, 21%)
+- Purple 750 (key shadow): hsl(290, 70%, 36%)
 
 #### Text
 
-- Light yellow: hsl(52, 100%, 62%)
-- Very dark blue: hsl(198, 20%, 13%)
-- White (text): hsl(0, 0%, 100%)
+- Yellow 300: hsl(52, 100%, 62%)
+- Blue 950: hsl(198, 20%, 13%)
+- White (text): hsl(0, 100%, 100%)
 
 ## Typography
 
